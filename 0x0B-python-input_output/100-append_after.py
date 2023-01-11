@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-# 100-append_after.py
-# Brennan D Baraban <375@holbertonschool.com>
 """Defines a text file insertion function."""
 
 
